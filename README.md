@@ -26,8 +26,8 @@ A very simple prometheus/grafana stack.
  - [grafana: 127.0.0.1:3000](127.0.0.1:3000)
 
 ## Run with docker-comose
- - docker-compose up -- start
- - docker-compose down -- stop
+ - Start the containers: docker-compose up 
+ - Stop the containers: docker-compose down 
 
 # Grafana credentials
  - uname: admin
