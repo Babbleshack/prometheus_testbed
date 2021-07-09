@@ -16,7 +16,7 @@ A very simple prometheus/grafana stack.
  - go to configuration -> data sources
  - Add data source
  - Find the following configs and set them to the values below (as shown in image)
-    * URL: http://127.0.0.1:9090
+    * URL: prometheus_server:9090
     * Access: Browser (this is set to server by default)
  - Save & test
 
