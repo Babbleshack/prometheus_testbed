@@ -12,7 +12,7 @@ A very simple prometheus/grafana stack.
   - docker-compose
 
 ## Configure Grafana
-![Prometheus config](./image/prometheus_config.png)
+![Prometheus config](./image/prometheus_setup.png)
  - go to configuration -> data sources
  - Add data source
  - Find the following configs and set them to the values below (as shown in image)
