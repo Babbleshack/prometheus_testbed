@@ -3,7 +3,7 @@
 A very simple prometheus/grafana stack.
 
 ## Overview
- - [Prometheus server] (https://prometheus.io/docs/prometheus/latest/installation/)
+ - [Prometheus server](https://prometheus.io/docs/prometheus/latest/installation/)
  - [Node exporter container](https://github.com/prometheus/node_exporter)
  - [Grafana](https://grafana.com/docs/grafana/latest/installation/docker/)
 
