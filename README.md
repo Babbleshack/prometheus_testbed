@@ -21,6 +21,6 @@ A very simple prometheus/grafana stack.
  - Save & test
 
 ## Web UI(s)
- - Prometheus: 127.0.0.19090
- - node_exporter: 127.0.0.19000
- - grafana: 127.0.0.13000
+ - [Prometheus: 127.0.0.1:9090](127.0.0.1:9090)
+ - [node_exporter: 127.0.0.1:9000(127.0.0.1:9000)
+ - [grafana: 127.0.0.1:3000](127.0.0.1:3000)
