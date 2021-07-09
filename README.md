@@ -28,3 +28,7 @@ A very simple prometheus/grafana stack.
 ## Run with docker-comose
  - docker-compose up -- start
  - docker-compose down -- stop
+
+# Grafana credentials
+ - uname: admin
+ - pass: admin
