@@ -22,5 +22,5 @@ A very simple prometheus/grafana stack.
 
 ## Web UI(s)
  - [Prometheus: 127.0.0.1:9090](127.0.0.1:9090)
- - [node_exporter: 127.0.0.1:9000(127.0.0.1:9000)
+ - [node_exporter: 127.0.0.1:9000](127.0.0.1:9000)
  - [grafana: 127.0.0.1:3000](127.0.0.1:3000)
